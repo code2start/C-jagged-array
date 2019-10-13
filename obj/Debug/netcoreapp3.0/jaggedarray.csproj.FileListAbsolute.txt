@@ -1,0 +1,11 @@
+C:\csharp\ar\jaggedarray\bin\Debug\netcoreapp3.0\jaggedarray.exe
+C:\csharp\ar\jaggedarray\bin\Debug\netcoreapp3.0\jaggedarray.deps.json
+C:\csharp\ar\jaggedarray\bin\Debug\netcoreapp3.0\jaggedarray.runtimeconfig.json
+C:\csharp\ar\jaggedarray\bin\Debug\netcoreapp3.0\jaggedarray.runtimeconfig.dev.json
+C:\csharp\ar\jaggedarray\bin\Debug\netcoreapp3.0\jaggedarray.dll
+C:\csharp\ar\jaggedarray\bin\Debug\netcoreapp3.0\jaggedarray.pdb
+C:\csharp\ar\jaggedarray\obj\Debug\netcoreapp3.0\jaggedarray.csprojAssemblyReference.cache
+C:\csharp\ar\jaggedarray\obj\Debug\netcoreapp3.0\jaggedarray.AssemblyInfoInputs.cache
+C:\csharp\ar\jaggedarray\obj\Debug\netcoreapp3.0\jaggedarray.AssemblyInfo.cs
+C:\csharp\ar\jaggedarray\obj\Debug\netcoreapp3.0\jaggedarray.dll
+C:\csharp\ar\jaggedarray\obj\Debug\netcoreapp3.0\jaggedarray.pdb
